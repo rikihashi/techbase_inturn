@@ -3,7 +3,7 @@
 <head>
     <meta charnet = "UTF-8">
     <title>
-        bulletin_board
+        bulletin_board_txt
     </title>
 </head>
 
